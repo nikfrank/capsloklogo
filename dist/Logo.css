@@ -1,0 +1,51 @@
+.capsloklogo {
+  margin: 10px 10px;
+  display: flex;
+  align-content: row;
+  width: 90px;
+  border: 2px solid #202C39;
+  border-radius: 18px 5.5px 18px 5.5px;
+  background-color: #D7263D;
+  box-shadow: .2px .2px 2px .5px  #A24936;
+  font-family: 'Montserrat', sans-serif;
+  user-select: none;
+  font-weight: 600;
+}
+
+.capsloklogo:hover {
+  box-shadow: none;
+}
+
+.capsloklogo-c .capsloklogo-apslo .capslok-logok {
+  box-shadow: 10px 10px 10px  #F15152;
+}
+
+.capsloklogo-c {
+  margin-left: 10px;
+}
+
+@media(max-width: 1000px) {
+  .capsloklogo {
+    width: 40px;
+  }
+  .capsloklogo-apslo{
+    display: none;
+  }
+  .capsloklogo-c {
+    margin-left: 8px;
+  }
+  .capslok-logok {
+    text-transform: uppercase;
+  }
+}
+@media(max-width: 650px) {
+  .capslok-logo {
+    width: 30px;
+  }
+  .capsloklogo-k{
+    display: none;
+  }
+  .capsloklogo-c {
+    margin-left: 11px;
+  }
+}

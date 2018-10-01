@@ -1,0 +1,27 @@
+{
+  "name": "capsloklogo",
+  "version": "1.0.0",
+  "description": "logo for capslok company",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nachumFreedman/logo.git"
+  },
+  "keywords": [
+    "capslok",
+    "logo"
+  ],
+  "author": "nachum freeman per capslok",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/nachumFreedman/logo/issues"
+  },
+  "homepage": "https://github.com/nachumFreedman/logo#readme",
+  "devDependencies": {
+    "@babel/core": "^7.1.2",
+    "@babel/preset-react": "^7.0.0"
+  }
+}
