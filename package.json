@@ -1,6 +1,6 @@
 {
   "name": "capsloklogo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "logo for capslok company",
   "main": "index.js",
   "scripts": {
@@ -16,11 +16,8 @@
     "type": "git",
     "url": "git+https://github.com/nachumFreedman/logo.git"
   },
-  "keywords": [
-    "capslok",
-    "logo"
-  ],
-  "author": "nachum freeman per capslok",
+  "keywords": ["capslok", "logo"],
+  "author": "nachum freeman and leib garber per capslok",
   "license": "UNLICENSED",
   "bugs": {
     "url": "https://github.com/nachumFreedman/logo/issues"
@@ -58,5 +55,4 @@
       "babel-plugin-transform-react-constant-elements"
     ]
   }
-
 }
