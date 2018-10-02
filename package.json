@@ -1,11 +1,11 @@
 {
   "name": "capsloklogo",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "logo for capslok company",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "b": "babel -d dist/ src/ --copy-files"
+    "b": "babel -d dist/ src/ --copy-files && rm ./dist/*~"
   },
   "dependencies": {
     "react": "^16.5.1",
