@@ -1,6 +1,6 @@
 {
   "name": "capsloklogo",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "logo for capslok company",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
     "url": "git+https://github.com/nachumFreedman/logo.git"
   },
   "keywords": ["capslok", "logo"],
-  "author": "nachum freeman and leib garber per capslok",
+  "author": "nachum freeman, leib garber, nik frank per capslok",
   "license": "UNLICENSED",
   "bugs": {
     "url": "https://github.com/nachumFreedman/logo/issues"
